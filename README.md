@@ -1,13 +1,15 @@
 ```bash
-Python Tools
+Python Tools (FREE TO USE)
 ```
 
 ```py
-Ducko
+
+Python Tools v1.0
 -----------
-OS:        Windows
-DE:        Normal JavaScript Developer from Denmark
-Uptime:    14 years
-Discord:   711712752246325343
-Skills:    JavaScrip, Lua, Learning TypeScript
+In this package
+
+import Spotify AIO
+import Twitch AIO
+import Discord GEN
+import Nuke Bot
 ```

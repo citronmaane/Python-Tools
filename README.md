@@ -11,7 +11,3 @@ Uptime:    14 years
 Discord:   711712752246325343
 Skills:    JavaScrip, Lua, Learning TypeScript
 ```
-  
-```bash
-Stats
-```
